@@ -20,3 +20,9 @@ The idea of project was to prepare structure to manage "Football World"
 1. Youth academy
 1. Finances
 1. Fans
+## Views
+1. Top scores
+2. League's table
+3. Transfers
+4. Fans on the stadium
+5. Youth players
