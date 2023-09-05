@@ -24,5 +24,7 @@ The idea of project was to prepare structure to manage "Football World"
 1. Top scores
 2. League's table
 3. Transfers
-4. Fans on the stadium
-5. Youth players
+## several functions and triggers
+
+5. Fans on the stadium
+6. Youth players
